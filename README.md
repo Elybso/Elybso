@@ -1,5 +1,5 @@
 ### 👋 Hello World 
-Welcome to Elybsoworld
+Welcome to SoftWorld!
 CEO SoftWorld 
 Cybersecurity Management Analyst 
 Snr Pentester 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Carding 
 - 💬 Ask me about ..Software Development 
 - 📫 How to reach me: ...vaaeliab1@gmail.com 
--   +2348131516153
+-   +2348131516152
 - ⚡ Fun fact: ...Hack the box 📦 
 -->
